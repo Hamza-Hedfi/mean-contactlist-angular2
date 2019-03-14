@@ -7,4 +7,5 @@ Contact List is a RESTful API server and web application built with the MEAN (An
 1. `git clone https://github.com/Hamza-Hedfi/mean-contactlist-angular2.git`
 2. `cd mean-contactlist-angular2`
 3. `npm install`
-4. Visit `127.0.0.1:8080`
+4. `npm start`
+5. Visit `127.0.0.1:8080`
